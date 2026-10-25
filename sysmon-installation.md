@@ -25,6 +25,10 @@ Moving sysmon config file to the sysmon parent folder:
 To install it:
 <img width="1205" height="592" alt="image" src="https://github.com/user-attachments/assets/dbdedd36-1ec1-447b-b90d-b24c368bdedc" />
 
+```powershell
+ .\Sysmon64.exe -i .\sysmonconfig.xml
+```
+
 
 
 
