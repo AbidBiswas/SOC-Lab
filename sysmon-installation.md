@@ -28,6 +28,9 @@ To install it:
 ```powershell
  .\Sysmon64.exe -i .\sysmonconfig.xml
 ```
+For verification:
+<img width="964" height="517" alt="image" src="https://github.com/user-attachments/assets/3d6ebdd4-0a0c-4cfe-8bea-c0fe9bf676d6" />
+
 
 
 
