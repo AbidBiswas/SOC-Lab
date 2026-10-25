@@ -11,6 +11,7 @@ To check sysmon installation using Event Viewer:
 Using Powershell:
 ```powershell
 Get-Service Sysmon*
+```
 
 
 
