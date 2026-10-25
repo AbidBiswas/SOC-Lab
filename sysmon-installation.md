@@ -9,8 +9,8 @@ To check sysmon installation using Event Viewer:
 <img width="1919" height="839" alt="image" src="https://github.com/user-attachments/assets/18c114a9-0b08-4ed8-aec4-3b471a69e4e6" /> 
 
 Using Powershell:
-
-<img width="670" height="77" alt="image" src="https://github.com/user-attachments/assets/f98b30d3-eeb1-4fad-a120-b2120e5b205d" />
+```powershell
+Get-Service Sysmon*
 
 
 
@@ -20,6 +20,9 @@ Navigating to the directory:
 
 Moving sysmon config file to the sysmon parent folder:
 <img width="734" height="308" alt="image" src="https://github.com/user-attachments/assets/dbd50b07-bae4-460c-96f5-3bd72e51f0a0" />
+
+To install it:
+<img width="1205" height="592" alt="image" src="https://github.com/user-attachments/assets/dbdedd36-1ec1-447b-b90d-b24c368bdedc" />
 
 
 
