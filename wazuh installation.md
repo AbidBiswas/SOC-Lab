@@ -163,4 +163,5 @@ The next stage is to verify connectivity with the Wazuh Manager and confirm that
 - [Installing Wazuh Agent on Windows](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-windows.html)
 - [Wazuh Agent Troubleshooting](https://documentation.wazuh.com/current/user-manual/agent/agent-enrollment/troubleshooting.html)
 
+##confirmation
 <img width="538" height="136" alt="image" src="https://github.com/user-attachments/assets/563a50d3-afdb-4b7b-b401-8b8401924943" />
